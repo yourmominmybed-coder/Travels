@@ -39,7 +39,7 @@ body{
 	justify-content: center;
 	text-align: center;
 	background: url(heroback.jpg) no-repeat center center / cover;
-	height: 100px;
+	height: 100vh;
 	color: white;
 }
 .hero-info{
